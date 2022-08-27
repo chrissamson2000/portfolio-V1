@@ -1,9 +1,9 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Chris Samson",
-    "role": "Frontend Software Engineer",
+    "role": "Frontend Software Engineer with 2 years of experience.",
     "linkedinId":"Chrissamson2000@gmail.com",
-    "roleDescription": " My free time is spent playing games, researching new technologies, or exploring in various aspects of frontend development.",
+    "roleDescription": " Outside of work my free time is spent playing games, researching new technologies, or exploring in various aspects of frontend development.",
     "socialLinks":[
         {
           "name":"linkedin",
