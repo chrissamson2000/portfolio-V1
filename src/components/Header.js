@@ -1,4 +1,7 @@
 import React, { Component } from "react";
+import Fade from "react-reveal/Fade";
+import Slide from "react-reveal/Slide";
+
 export default class Header extends Component {
   render() {
     let resumeData = this.props.resumeData;
@@ -41,10 +44,14 @@ export default class Header extends Component {
 
         <div className="row banner">
           <div className="banner-text">
-            <h1 className="responsive-headline">{resumeData.name}</h1>
-            <h3 style={{ color: "#fff", fontFamily: "sans-serif " }}>
-              I am a {resumeData.role}.{resumeData.roleDescription}
-            </h3>
+            <Fade left>
+              <h1 className="responsive-headline">{resumeData.name}</h1>
+            </Fade>
+            <Slide right>
+              <h3 style={{ color: "#fff", fontFamily: "sans-serif " }}>
+                  I am a {resumeData.role}.{resumeData.roleDescription}
+                </h3>
+            </Slide>
             <hr />
             <ul className="social">
               {resumeData.socialLinks &&

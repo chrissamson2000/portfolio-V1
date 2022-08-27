@@ -39,7 +39,7 @@ let resumeData = {
         "specialization":"PHP Web Developer",
         "MonthOfLeaving":"August 2020 - ",
         "YearOfLeaving":"Jan 2021",
-        "Achievements":`• Built UI components for client and admin web app`,
+        "Desc0":`• Built UI components for client and admin web app`,
         "Desc1":`• Implemented features to improve performance and the UI`,
         "Desc2":`• Tested UI to ensure performance is optimal for clients`,
         "Desc3":`• Reduced cache size to improve loading and performance speeds`
@@ -49,7 +49,7 @@ let resumeData = {
         "specialization":"Front-End Software Engineer Intern",
         "MonthOfLeaving":"August 2021 -",
         "YearOfLeaving":"Jan 2022",
-        "Achievements":`• Optimized and maintained the UI for an Accounting Software in an agile development environment`,
+        "Desc0":`• Optimized and maintained the UI for an Accounting Software in an agile development environment`,
         "Desc1":`• Designed and implemented reusable components`,
         "Desc2":`• Used problem solving skills to resolve bugs and refactor code`,
         "Desc3":`• Implement new features to the UI to suite the requirements of the clients`

@@ -1,4 +1,7 @@
 import React, { Component } from "react";
+import Fade from 'react-reveal/Fade';
+import Flip from 'react-reveal/Flip';
+
 export default class Resume extends Component {
   render() {
     let resumeData = this.props.resumeData;
@@ -45,7 +48,9 @@ export default class Resume extends Component {
                 return (
                   <div className="row item">
                     <div className="twelve columns">
+                    <Flip left cascade>
                       <h3>{item.CompanyName}</h3>
+                      </Flip>
                       <h6 className="info">
                         {item.specialization}
                         <span>&bull;</span>{" "}
@@ -54,7 +59,7 @@ export default class Resume extends Component {
                         </em>
                       </h6>
                       <div className="desc">
-                        <p>{item.Achievements}</p>
+                        <p>{item.Desc0}</p>
                         <p>{item.Desc1}</p> 
                         <p>{item.Desc2}</p> 
                         <p>{item.Desc3}</p> 
