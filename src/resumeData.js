@@ -115,6 +115,13 @@ let resumeData = {
         'link': '/',
         'code': 'https://github.com/chrissamson2000/react-accounting-software-fyp',
       },
+      {
+        "name":"Expense Tracker",
+        "description":"Simple React Expense Tracker that contains filtered expenses by year and a chart to show expenses by the month.",
+        "imgurl":"images/expense-tracker.png",
+        'link': 'https://react--expense--app.herokuapp.com/',
+        'code': 'https://github.com/chrissamson2000/react-expense-tracker',
+      },
     ],
     "testimonials":[
       {
