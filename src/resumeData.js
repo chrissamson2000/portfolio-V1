@@ -1,9 +1,9 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Chris Samson",
-    "role": "Frontend Software Engineer with 2 years of experience",
+    "role": "Front-End Software Engineer with 1 year of professional experience",
     "linkedinId":"Chrissamson2000@gmail.com",
-    "roleDescription": " Outside of work my free time is spent playing games, researching new technologies, or exploring in various aspects of frontend development.",
+    "roleDescription": " Outside of work my free time is spent playing games, researching new technologies, or exploring various aspects of Front-End development.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -21,7 +21,7 @@ let resumeData = {
           "className":"fa fa-instagram"
         }
       ],
-    "aboutme":"At UCSI University in Kuala Lumpur, Malaysia, I just completed my bachelor's degree in computing. I am a Frontend software engineer who mainly works with React. I love and am willing to learn any existing/upcoming framework, library, or technology related to Full-Stack Development.",
+    "aboutme":"At UCSI University in Kuala Lumpur, Malaysia, I just completed my Bachelor of Science (Hons) in Computing. I am a Front-End Software Engineer who mainly works with React along with Redux, Ant Design, and Material-UI. I love and am willing to learn any existing/upcoming framework, library, or technology related to Full-Stack Development.",
     "address":"Zanesville, Ohio",
     "website":"Chrissamson2000@gmail.com",
     "education":[

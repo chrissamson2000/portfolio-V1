@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import Fade from 'react-reveal/Fade';
 import Flip from 'react-reveal/Flip';
 
 export default class Resume extends Component {
