@@ -52,7 +52,8 @@ let resumeData = {
         "Desc0":`• Optimized and maintained the UI for an Accounting Software in an agile development environment`,
         "Desc1":`• Designed and implemented reusable components`,
         "Desc2":`• Used problem solving skills to resolve bugs and refactor code`,
-        "Desc3":`• Implement new features to the UI to suite the requirements of the clients`
+        "Desc3":`• Implement new features to the UI to suite the requirements of the clients`,
+        "Desc4":`• Perform rounds of testing for usability`
       }
     ],
     "skillsDescription":"",
